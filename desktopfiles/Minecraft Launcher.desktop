@@ -2,8 +2,8 @@
 Version=1.0
 Name=Minecraft Launcher
 Comment=Official Minecraft Launcher
-Exec=/home/devin/.minecraft/launcher/minecraft-launcher
-Icon=/home/devin/.minecraft/launcher/icons/minecraft256.png
+Exec=/home/lily/.minecraft/launcher/minecraft-launcher
+Icon=/home/lily/.minecraft/launcher/icons/minecraft256.png
 Terminal=false
 Type=Application
 StartupNotify=true
